@@ -52,7 +52,7 @@
 - Для подсчёта времени выполнения: datetime
 
 ## Установка и запуск проекта, полезная информация
-[Документация](https://github.com/Alonsole/Asyncio_Swapi/Documentation.md)
+[Документация](https://github.com/Alonsole/Asyncio_Swapi/blob/main/Documentation.md)
 
 ### Требования
 
